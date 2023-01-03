@@ -10,3 +10,4 @@ tensorflow
 pydot
 graphviz
 keras-visualizer
+visualkeras
