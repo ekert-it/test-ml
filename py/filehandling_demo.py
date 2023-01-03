@@ -1,4 +1,4 @@
-'''Modul zum Testen der bibs'''
+'''File handling demo'''
 import os
 import pandas as pd
 
